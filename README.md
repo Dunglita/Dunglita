@@ -28,7 +28,11 @@ Que manejo con facilidad
 ![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 
 ## Stats🦔
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dunglita)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/Dunglita/Dunglita">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dunglita,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dunglitatex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3")](https://github.com/anuraghazra/github-readme-stats)
 
 
 
