@@ -8,7 +8,14 @@
 <p> shields</p>
 
 ## Socials
-<p> shields </p>
+<p> 
+
+![] (https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+
+
+
+
+</p>
 
 
 
