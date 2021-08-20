@@ -3,9 +3,22 @@
  
 ## Sobre mi 🐶
 <p> Mi nombre es Daniel, soy un Desarrolador Web y estudiante avanzado de Ingenieria en Sistemas, tengo 23 años, de los cuales en los ultimos me he interesado en el diseño y desarrollo web.</p>
+<p> Coding with: </p>
+<img src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Tecnologias🦁
-Que manejo con facilidad
+<h3>Que manejo con facilidad</h3>
+![](
+![](
+![](
+![](
+![](
+![](
+![](
+![](
+
+
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -28,6 +41,8 @@ Que manejo con facilidad
 ![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 
 ## Stats🦔
+![Profile View Counter](https://komarev.com/ghpvc/?username=Dunglita)
+
 <a href="https://github.com/Dunglita/Dunglita">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dunglita&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
@@ -35,6 +50,8 @@ Que manejo con facilidad
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dunglita&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3")](https://github.com/anuraghazra/github-readme-stats)
 
 
+## Shy Joke every 15 min or so✨
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!--
 **Dunglita/Dunglita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
