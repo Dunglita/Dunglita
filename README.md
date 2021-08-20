@@ -27,7 +27,8 @@ Que manejo con facilidad
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_danigarcia1)
 ![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 
-
+## Stats🦔
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dunglita)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
