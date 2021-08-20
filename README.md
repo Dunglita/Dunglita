@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Negro y Blanco Personal Banner para Tumblr](https://user-images.githubusercontent.com/83776673/130269668-2f85a29e-b59c-4814-a5ea-bce8479eab57.png)
 
 <!--
 **Dunglita/Dunglita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +16,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://user-images.githubusercontent.com/83776673/130268909-0aec0352-de11-4896-8561-e58fe0eb205e.png
+
