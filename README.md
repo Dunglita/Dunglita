@@ -1,9 +1,12 @@
 ![Banner](https://user-images.githubusercontent.com/83776673/130269668-2f85a29e-b59c-4814-a5ea-bce8479eab57.png)
 # Hello there👋 (~~General Kenobi~~). 
-<br/>
 ## Sobre mi
-<p> Mi nombre es Daniel, tengo 23 años y soy un Desarrolador Web Junior, ademas de un estudiante avanzado de Ingenieria en Sistemas </p>
-<br/>
+<p> Mi nombre es Daniel, tengo 23 años y soy un Desarrolador Web Junior, ademas de un estudiante avanzado de Ingenieria en Sistemas, siempre he estado interesado por el 
+diseño web</p>
+## Tecnologias
+## Socials
+<button> click me </button>
+
 
 
 
