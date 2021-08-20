@@ -3,9 +3,12 @@
 ## Sobre mi
 <p> Mi nombre es Daniel, tengo 23 años y soy un Desarrolador Web Junior, ademas de un estudiante avanzado de Ingenieria en Sistemas, siempre he estado interesado por el 
 diseño web</p>
+
 ## Tecnologias
+<p> hola hola hola</p>
+
 ## Socials
-<button> click me </button>
+<p> chau chau chua </p>
 
 
 
