@@ -3,7 +3,8 @@
 <!--
 **Dunglita/Dunglita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:![Negro y Blanco Personal Banner para Tumblr](https://user-images.githubusercontent.com/83776673/130268909-0aec0352-de11-4896-8561-e58fe0eb205e.png)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
