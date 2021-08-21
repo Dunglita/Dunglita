@@ -18,7 +18,7 @@
 
 
 ## Tecnologias
-<img align="right" src="https://user-images.githubusercontent.com/83776673/130328523-b6596f3d-1174-4526-8b05-2ce4b19f424b.png" width="550px">
+<img align="right" src="https://user-images.githubusercontent.com/83776673/130328731-e7be5c4c-274f-4f65-a8bf-bda36919c0ad.png">
 <h3>Que manejo con facilidad</h3>
 <h6>Frontend</h6>
 <div style="color:red">
@@ -119,17 +119,14 @@
 ## ✨✨Shy Joke every 15 min or so✨✨
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-
+<!--
 <img src="https://user-images.githubusercontent.com/83776673/130325642-763ef29f-6201-422a-807b-4e46caea2bdc.gif">
 <img src="https://user-images.githubusercontent.com/83776673/130325644-9fdec013-96d5-418a-aa23-522dd4a3b249.gif">
 <img src="https://user-images.githubusercontent.com/83776673/130325645-3f89fca6-6dc7-42a9-be73-c06b8b83e4ce.gif">
 <img src="https://user-images.githubusercontent.com/83776673/130325671-7172556e-9ed1-4fa5-a736-5eb7e552c592.gif">
 
+-->
 
-
-<img align="right" src="https://user-images.githubusercontent.com/83776673/130328168-29058803-a8ee-4aa7-9f0c-b4d8625c1df8.png" height="800px">
-
-z
 <!--
 **Dunglita/Dunglita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
