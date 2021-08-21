@@ -6,8 +6,8 @@
 <p> Coding with: <img src="https://img.shields.io/badge/-VSCode-informational?style=flat-square&logo=visualstudiocode"> 
 </p>
 
-## Tecnologias🦁
-<h3>Que manejo con facilidad💪🏻</h3>
+## Tecnologias
+<h3>Que manejo con facilidad</h3>
 <h6>Frontend</h6>
 <ul> 
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3">
@@ -34,17 +34,17 @@
  <img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" alt="Angular.Js">
 </ul>
 
-## Socials🦔
+## Socials
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dunglita)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-danigarcia/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_danigarcia1)
 ![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 
-## Setup (in case you're into that kind of things)🦔
+## Setup (in case you're into that kind of things)
 
 
-## Stats🦔
+## Stats
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Dunglita)
 
 <a href="https://github.com/Dunglita/Dunglita">
@@ -54,7 +54,7 @@
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dunglita&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3")](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Shy Joke every 15 min or so✨
+## ✨✨Shy Joke every 15 min or so✨✨
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!--
