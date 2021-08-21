@@ -18,7 +18,7 @@
 
 
 ## Tecnologias
-<img align="right" src="https://user-images.githubusercontent.com/83776673/130328168-29058803-a8ee-4aa7-9f0c-b4d8625c1df8.png" height="800px">
+<img align="right" src="https://user-images.githubusercontent.com/83776673/130328523-b6596f3d-1174-4526-8b05-2ce4b19f424b.png" width="550px">
 <h3>Que manejo con facilidad</h3>
 <h6>Frontend</h6>
 <div style="color:red">
@@ -126,6 +126,8 @@
 <img src="https://user-images.githubusercontent.com/83776673/130325671-7172556e-9ed1-4fa5-a736-5eb7e552c592.gif">
 
 
+
+<img align="right" src="https://user-images.githubusercontent.com/83776673/130328168-29058803-a8ee-4aa7-9f0c-b4d8625c1df8.png" height="800px">
 
 
 <!--
