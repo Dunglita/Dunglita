@@ -94,12 +94,14 @@
 ## My GitHub Stats
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Dunglita)
 
+<div>
 <a href="https://github.com/Dunglita/Dunglita">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dunglita&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" height="210px"/>
 </a>
  <a href="https://github.com/anuraghazra/github-readme-stats" >
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Dunglita&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" height="210px" width="540"/>
 </a>
+ </div>
 </br>
 </br>
 
