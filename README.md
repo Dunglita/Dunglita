@@ -5,7 +5,7 @@
 <p> My name is Daniel, I'm both a Web Developer and an advanced student of Systems Engineering, I'm 23 years old, and i've been spending the last ones digging into the world of Web Developing and general Programming.
 </br>
 </p>
-<p> ✏️What I instat-click whenenver I have to code anything: <img src="https://img.shields.io/badge/-VSCode-informational?style=flat-square&logo=visualstudiocode" alt="VSCode"> 
+<p> ✏️What I instat-click whenenver I have to code anything: <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white" alt="VSCode"> 
  </br>
  ⚠️My go-to when it comes to fix something: <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" alt="StackOverflow">
  </br>
@@ -19,9 +19,6 @@
 ## Technologies 💻
 <p>Quick resume of all the programming languages and tools I've learned, the ones I use the most, and couple of things I'm looking forward to learn in a future as well as things im actually studying.</p>
 <img align="right" src="https://user-images.githubusercontent.com/83776673/130340397-b04369d3-4ee8-4c09-8d3a-c1cc05749b3f.PNG">
-<!--
-<img align="right" src="https://user-images.githubusercontent.com/83776673/130336765-33e82184-8ea4-4ab6-b56a-b874d2898c29.png">
--->
 <ul>
  <li>
   <h3>I feel confident using</h3>
@@ -98,7 +95,7 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Dunglita)
 
 <a href="https://github.com/Dunglita/Dunglita">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dunglita&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" height="220px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dunglita&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" height="210px"/>
 </a>
  <a href="https://github.com/anuraghazra/github-readme-stats" >
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dunglita&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" height="220px" width="520"/>
@@ -129,17 +126,6 @@
 
 ## ✨✨Shy Joke every 15 min or so✨✨
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
-<!--
-<img src="https://user-images.githubusercontent.com/83776673/130325642-763ef29f-6201-422a-807b-4e46caea2bdc.gif">
-<img src="https://user-images.githubusercontent.com/83776673/130325644-9fdec013-96d5-418a-aa23-522dd4a3b249.gif">
-<img src="https://user-images.githubusercontent.com/83776673/130325645-3f89fca6-6dc7-42a9-be73-c06b8b83e4ce.gif">
-
-
-![asdasdasd](
-
-
--->
 
 <!--
 **Dunglita/Dunglita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
