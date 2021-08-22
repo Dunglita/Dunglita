@@ -2,9 +2,12 @@
 ![Banner](https://user-images.githubusercontent.com/83776673/130269668-2f85a29e-b59c-4814-a5ea-bce8479eab57.png)
  
 ## About Me 🐶
-<p> My name is Daniel, I'm both a Web Developer and an advanced student of Systems Engineering, I'm 23 years old, and i've been spending the last ones digging into the world of Web Developing and general Programming.
+<p> My name is Daniel, I'm both a Web Developer and an advanced student of Systems Engineering, I'm 23 years old, the last ones of wich i've been digging into the world of Web Developing and Programming. I'm actually trying to gain more experience as a Fullstack developer centered in the Frontend field.
 </br>
 </p>
+
+📫 How to reach me garciadanos@gmail.com
+⚡ Fun fact I'm 
 <p> ✏️What I instat-click whenenver I have to code anything: <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white" alt="VSCode"> 
  </br>
  ⚠️My go-to when it comes to fix something: <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" alt="StackOverflow">
@@ -22,6 +25,21 @@
 <ul>
  <li>
   <h3>I feel confident using</h3>
+  
+  
+  <details>
+	<summary><b>Frontend</b></summary></br>
+	<p>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Html5">
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Js">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+	</p>
+</details>
+  
+  
+  
   <h4>Frontend</h4>
    <ul>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3">
@@ -82,7 +100,7 @@
 </ul>
 </br>
 
-## Socials
+## Connect with me
 <p>Feel free to reach me out in any of my social media.</p>
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dunglita)
