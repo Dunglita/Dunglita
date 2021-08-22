@@ -18,7 +18,7 @@
 
 ## Technologies 💻
 <p>Quick resume of all the programming languages and tools I've learned, the ones I use the most, and couple of things I'm looking forward to learn in a future as well as things im actually studying.</p>
-<img align="right" src="https://user-images.githubusercontent.com/83776673/130340349-6072661a-a193-4a5e-b904-5c3fb3694258.PNG">
+<img align="right" src="https://user-images.githubusercontent.com/83776673/130340380-85a70040-baca-404e-bacd-c7b7e2ad0645.PNG">
 <!--
 <img align="right" src="https://user-images.githubusercontent.com/83776673/130336765-33e82184-8ea4-4ab6-b56a-b874d2898c29.png">
 -->
@@ -101,7 +101,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dunglita&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" height="220px"/>
 </a>
  <a href="https://github.com/anuraghazra/github-readme-stats" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dunglita&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" height="220px" width="500" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dunglita&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" height="220px"/>
 </a>
 </br>
 </br>
