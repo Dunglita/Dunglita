@@ -18,7 +18,7 @@
 
 ## Technologies 💻
 <p>Quick resume of all the programming languages and tools I've learned, the ones I use the most, and couple of things I'm looking forward to learn in a future as well as things im actually studying.</p>
-<img align="right" src="https://user-images.githubusercontent.com/83776673/130340380-85a70040-baca-404e-bacd-c7b7e2ad0645.PNG">
+<img align="right" src="https://user-images.githubusercontent.com/83776673/130340397-b04369d3-4ee8-4c09-8d3a-c1cc05749b3f.PNG">
 <!--
 <img align="right" src="https://user-images.githubusercontent.com/83776673/130336765-33e82184-8ea4-4ab6-b56a-b874d2898c29.png">
 -->
