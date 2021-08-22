@@ -1,8 +1,9 @@
-# Hello there👋 (~~General Kenobi~~).
+<h1 align="center">Hello there👋 (<s>General Kenobi</s>).</h1>
+
 ![Banner](https://user-images.githubusercontent.com/83776673/130269668-2f85a29e-b59c-4814-a5ea-bce8479eab57.png)
  
-## About Me 🐶
-<p> My name is Daniel, I'm both a Web Developer and an advanced student of Systems Engineering, I'm 23 years old, the last ones of wich i've been digging into the world of Web Developing and Programming. I'm actually trying to gain more experience as a Fullstack developer centered in the Frontend field.
+## ⚡About Me⚡ 
+<p> My name is Daniel and I'm a 23 years old Web Developer from Argentina. Actually I'm gainning experience as a Fullstack Developer centered in the Frontend field.
 </br>
 </p>
 
@@ -59,46 +60,7 @@
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
 	</p>
 </details>
-  
-  
-  
-<!--  
-  <h4>Frontend</h4>
-   <ul>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Html5">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-   </ul>
-   <ul> 
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Js">
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-   </ul>
-   
-  
-  <h4>Backend</h4>
-   <ul>
-    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.Js">
-    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.Js">
-    <img src="https://img.shields.io/badge/MySQL-CA4245?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-   </ul>
-   <ul> 
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PosgreSQL">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-   </ul>
- -->
-  <h4>Tools and Others</h4>
-   <ul>
-    <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R">
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
-   </ul>
-   <ul>
-    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-   </ul>
- </li>
+</li>
  <li>
   <h3>I'm actually learning</h3>
    <ul>
@@ -135,7 +97,7 @@
 
 </br>
 
-## My GitHub Stats
+## GitHub Stats
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Dunglita)
 
 <a href="https://github.com/Dunglita/Dunglita">
@@ -146,7 +108,7 @@
 </a>
 </br>
 </br>
-
+<!--
 ## Setup (in case you're into that kind of things)🕹️👾
 <h4>PC Specs </h4>
 <ul>
@@ -162,7 +124,7 @@
 <li>Jstick: Xbox One Controller</li>
 <li>HSet: HyperX Cloud Alpha</li>
 </ul>
-
+-->
 <a href="https://steamcommunity.com/id/dunglita/">
 <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="MySteamProfile">
 </a>
