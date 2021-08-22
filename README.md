@@ -15,8 +15,10 @@
 </p>
 </br>
 
+
 ## Technologies 💻
 <p>Quick resume of all the programming languages and tools I've learned, the ones I use the most, and couple of things I'm looking forward to learn in a future as well as things im actually studying.</p>
+<img align="right" src="https://user-images.githubusercontent.com/83776673/130338929-206abc8f-390a-4b97-88bf-02d083ead134.PNG" >
 <!--
 <img align="right" src="https://user-images.githubusercontent.com/83776673/130336765-33e82184-8ea4-4ab6-b56a-b874d2898c29.png">
 -->
