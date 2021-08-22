@@ -4,7 +4,6 @@
 ## About Me 🐶
 <p> My name is Daniel, I'm both a Web Developer and an advanced student of Systems Engineering, I'm 23 years old, and i've been spending the last ones digging into the world of Web Developing and general Programming.
 </br>
-
 </p>
 <p> ✏️What I instat-click whenenver I have to code anything: <img src="https://img.shields.io/badge/-VSCode-informational?style=flat-square&logo=visualstudiocode" alt="VSCode"> 
  </br>
@@ -18,7 +17,9 @@
 
 ## Technologies 💻
 <p>Quick resume of all the programming languages and tools I've learned, the ones I use the most, and couple of things I'm looking forward to learn in a future as well as things im actually studying.</p>
+<!--
 <img align="right" src="https://user-images.githubusercontent.com/83776673/130336765-33e82184-8ea4-4ab6-b56a-b874d2898c29.png">
+-->
 <ul>
  <li>
   <h3>I feel confident using</h3>
