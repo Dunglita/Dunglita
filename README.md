@@ -2,9 +2,18 @@
 
 ![Banner](https://user-images.githubusercontent.com/83776673/130269668-2f85a29e-b59c-4814-a5ea-bce8479eab57.png)
  
-## ⚡About Me⚡ 
-<p> My name is Daniel and I'm a 23 years old Web Developer from Argentina. Actually I'm gainning experience as a Fullstack Developer centered in the Frontend field.
-</br>
+## So yeah, I'm Dani⚡ 
+<p> My name is Daniel and I'm a 23 years old Web Developer from Argentina. Actually I'm gainning experience as a Fullstack Developer centered in the Frontend field.</br></p>
+<h3 align="left">Connect with me🤝</h3>
+<p>Feel free to reach me out in any of my social media.</p>
+<p align="left">
+<a href="https://linkedin.com/in/-danigarcia"><img align="center" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" alt="-danigarcia" height="40" width="40" /></a>
+<a href="https://instagram.com/_danigarcia1" target="blank"><img align="center" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" alt="_danigarcia1" height="40" width="40" /></a>
+<a href="https://discord.gg/Dungla#8009" target="blank"><img align="center" src="https://camo.githubusercontent.com/79fcdc7c43f1a1d7c175827976ffee8177814a016fb1b9578ff70f1aef759578/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f646973636f72642e737667" alt="Dungla#8009" height="40" width="40" /></a>
+<a href="garciadanos@gmail.com" target="blank"><img align="center" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" alt="garciadanos@gmail.com" height="40" width="40" /></a>	
+<a href="github.com/Dunglita" target="blank"><img align="center" src="https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667" alt="github.com/Dunlgita" height="40" width="40" /></a>	
+	
+	
 </p>
 
 📫 How to reach me garciadanos@gmail.com
@@ -88,7 +97,7 @@
 </ul>
 </br>
 
-## Connect with me
+## Connect with me🤝
 <p>Feel free to reach me out in any of my social media.</p>
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dunglita)
@@ -97,7 +106,7 @@
 
 </br>
 
-## GitHub Stats
+## GitHub Stats📈
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Dunglita)
 
 <a href="https://github.com/Dunglita/Dunglita">
@@ -109,7 +118,7 @@
 </br>
 </br>
 <!--
-## Setup (in case you're into that kind of things)🕹️👾
+## Setup (in case you're into that kind of things)👾
 <h4>PC Specs </h4>
 <ul>
 <li>Cpu: Amd Ryzen5 2600X</li>
