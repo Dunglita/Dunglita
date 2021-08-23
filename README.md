@@ -48,6 +48,13 @@
 <img alt="heroku" height="50px" width="50px" src="https://camo.githubusercontent.com/6aa4e03ab52ad6767b4788866965fa02753db42f75ffa2b852c3c653c4d03273/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6865726f6b752e737667">
 <img alt="java" height="50px" width="50px" src="https://camo.githubusercontent.com/a870803f30db1d15495072fa9e946a7fa6a6fc1a47fe12324aaf7509c410fc4a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176612e737667">
 <img alt="c++" height="50px" width="50px" src="https://camo.githubusercontent.com/1141fa873ae7371cd6b723fef0cd57ca14923123983844571416854b7f5e8fb6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f63706c7573706c75732e737667">
+<img alt="canva" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/d595800241e7c3939e92537a14e87d22a54fd6c1/canva.svg">
+<img alt="express" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/d595800241e7c3939e92537a14e87d22a54fd6c1/express.svg">
+<img alt="figma" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/d595800241e7c3939e92537a14e87d22a54fd6c1/figma%202.svg">
+<img alt="nodejs" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/d595800241e7c3939e92537a14e87d22a54fd6c1/nodejs.svg">
+<img alt="postman" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/d595800241e7c3939e92537a14e87d22a54fd6c1/postman.svg">
+<img alt="R" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/main/Icons/RStudio_30177.png">	
+<img alt="mysql" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/d595800241e7c3939e92537a14e87d22a54fd6c1/mysql.svg">
 </p>
 
 <h3>I'm looking forward to learn</h3>
@@ -62,6 +69,12 @@
 <img alt="saas" height="50px" width="50px" src="https://camo.githubusercontent.com/3a61a49321fba37513904864aee93be1873b05f2cb84b9c13a5dfbb534ac17fa/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f736173732e737667">
 <img alt="go" height="50px" width="50px" src="https://camo.githubusercontent.com/13e18ab9046dbfdf25bb7a0448ec88710166b5ec85f3cd1b57efe2a9aa4ccdd6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676f2e737667">
 <img alt="flutter" height="50px" width="50px" src="https://camo.githubusercontent.com/750365ec8e10a2a4075ffb09fd644c3176c98638a7c45a79a8a40366a9d64f3a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f666c75747465722e737667">
+<img alt="aws" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/d595800241e7c3939e92537a14e87d22a54fd6c1/aws.svg">
+<img alt="mongodb" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/d595800241e7c3939e92537a14e87d22a54fd6c1/mongo.svg">
+<img alt="next" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/d595800241e7c3939e92537a14e87d22a54fd6c1/nextjs.svg">
+<img alt="arduino" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/main/Icons/arduino-logo-1.png">
+<img alt="redux" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/63ff8885c42350bb5b3707af0776bea13ea914e0/Icons/redux.svg">
+			
 </p>
 
 <!--
@@ -183,19 +196,7 @@
 <img alt="discord" height="50px" width="50px" src="https://camo.githubusercontent.com/79fcdc7c43f1a1d7c175827976ffee8177814a016fb1b9578ff70f1aef759578/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f646973636f72642e737667">
 <img alt="stackoverflow" height="50px" width="50px" src="https://camo.githubusercontent.com/ad1dcdc76b0be1423e54a791d31311e91e8e89bb8492be214cfc3390e24c323d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f737461636b6f766572666c6f772e737667">
 -->	  	  
-<img alt="" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/d595800241e7c3939e92537a14e87d22a54fd6c1/aws.svg">
-<img alt="" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/d595800241e7c3939e92537a14e87d22a54fd6c1/canva.svg">
-<img alt="" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/d595800241e7c3939e92537a14e87d22a54fd6c1/express.svg">
-<img alt="" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/d595800241e7c3939e92537a14e87d22a54fd6c1/figma%202.svg">
-<img alt="" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/d595800241e7c3939e92537a14e87d22a54fd6c1/mongo.svg">	
-<img alt="" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/d595800241e7c3939e92537a14e87d22a54fd6c1/mysql.svg">	
-<img alt="" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/d595800241e7c3939e92537a14e87d22a54fd6c1/nextjs.svg">
-<img alt="" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/d595800241e7c3939e92537a14e87d22a54fd6c1/nodejs.svg">
-<img alt="" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/d595800241e7c3939e92537a14e87d22a54fd6c1/postman.svg">
-<img alt="" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/main/Icons/RStudio_30177.png">
-<img alt="" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/main/Icons/arduino-logo-1.png">
-<img alt="" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/63ff8885c42350bb5b3707af0776bea13ea914e0/Icons/redux.svg">
-				    
+	    
 </p>
 <!--
 **Dunglita/Dunglita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
