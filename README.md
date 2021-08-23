@@ -7,6 +7,15 @@
 
 <h3>Personal Stuffs</h3>
 <p> My name is Daniel and I'm a 23 years old Web Developer from Argentina. Actually I'm gaining experience as a Fullstack Developer centered in the Frontend field.</br></p>
+<ul>
+<li>🌱 I’m currently learning Angular and Python</li>
+<li>👨‍💻 All of my projects are available at https://github.com/Dunglita</li>
+<li>💬 Ask me about React.</li>
+<li>📫 Reach me out at garciadanos@gmail.com</li>
+<li>⚡ Fun fact I have an smart-home proyect on the going</li>
+<li>✏️ Actually coding with VSCode.</li>
+</ul>
+
 <h3 align="left">Connect with me🤝</h3>
 <p>Feel free to reach me out in any of my social media.</p>
 <p align="left">
@@ -16,21 +25,7 @@
 <a href="https://github.com/Dunglita"><img align="center" src="https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667" alt="github.com/Dunlgita" height="40" width="40" /></a>		
 </p>
 
-📫 How to reach me garciadanos@gmail.com
-⚡ Fun fact I'm 
-<p> ✏️What I instat-click whenenver I have to code anything: <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white" alt="VSCode"> 
- </br>
- ⚠️My go-to when it comes to fix something: <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" alt="StackOverflow">
- </br>
- 🎶Playing in the background while Im working: <img src="https://img.shields.io/badge/Spotify-1ED760?&style=flat&logo=spotify&logoColor=white" alt="Spotify">
- <br>
- ⬆️So far my favourite plataform to deploy: <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white" alt="Heroku">
-</p>
-
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Dunglita)
-
-</br>
-
 
 ## Learning 💻
 <p>Quick resume of all the programming languages and tools I've learned, the ones I use the most, and couple of things I'm looking forward to learn in a future as well as things im actually studying.</p>
@@ -73,8 +68,7 @@
 <img alt="mongodb" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/d595800241e7c3939e92537a14e87d22a54fd6c1/mongo.svg">
 <img alt="next" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/d595800241e7c3939e92537a14e87d22a54fd6c1/nextjs.svg">
 <img alt="arduino" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/main/Icons/arduino-logo-1.png">
-<img alt="redux" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/63ff8885c42350bb5b3707af0776bea13ea914e0/Icons/redux.svg">
-			
+<img alt="redux" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/63ff8885c42350bb5b3707af0776bea13ea914e0/Icons/redux.svg">		
 </p>
 
 <!--
@@ -174,7 +168,7 @@
 </a>
 </br>
 
-## ✨✨Shy Joke every 15 min or so✨✨
+## Shy Joke every 15 min or so✨
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <a href="https://github.com/Dunglita#hello-there-general-kenobi">
