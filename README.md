@@ -8,48 +8,51 @@
 <h3>Personal Stuffs</h3>
 <p> My name is Daniel and I'm a 23 years old Web Developer from Argentina. Actually I'm gaining experience as a Fullstack Developer centered in the Frontend field.</br></p>
 <ul>
-<li>🌱 I’m currently learning Angular and Python</li>
-<li>👨‍💻 All of my projects are available at https://github.com/Dunglita</li>
+<li>🌱 I’m currently learning Angular and Python.</li>
+<li>👨‍💻 All of my projects are available at https://github.com/Dunglita.</li>
 <li>💬 Ask me about React.</li>
-<li>📫 Reach me out at garciadanos@gmail.com</li>
-<li>⚡ Fun fact I have an smart-home proyect on the going</li>
-<li>✏️ Actually coding with VSCode.</li>
+<li>📫 Reach me out at garciadanos@gmail.com.</li>
+<li>✏️ Coding with VSCode.</li>
+<li>⚡ Fun fact I have an smart-home proyect on the going.</li>
 </ul>
 
 <h3 align="left">Connect with me🤝</h3>
 <p>Feel free to reach me out in any of my social media.</p>
 <p align="left">
-<a href="https://linkedin.com/in/-danigarcia"><img align="center" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" alt="-danigarcia" height="40" width="40" /></a>
-<a href="https://instagram.com/_danigarcia1" ><img align="center" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" alt="_danigarcia1" height="40" width="40" /></a>
-<a href="https://discordapp.com/users/324760106950459393/" ><img align="center" src="https://camo.githubusercontent.com/79fcdc7c43f1a1d7c175827976ffee8177814a016fb1b9578ff70f1aef759578/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f646973636f72642e737667" alt="Dungla#8009" height="40" width="40" /></a>	
-<a href="https://github.com/Dunglita"><img align="center" src="https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667" alt="github.com/Dunlgita" height="40" width="40" /></a>		
+<a href="https://linkedin.com/in/-danigarcia"><img align="center" alt="-danigarcia" height="50" width="50" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667"/></a>
+<a href="https://instagram.com/_danigarcia1"><img align="center" alt="_danigarcia1" height="50" width="50" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667"/></a>
+<a href="https://discordapp.com/users/324760106950459393/"><img align="center" height="50" width="50" src="https://camo.githubusercontent.com/79fcdc7c43f1a1d7c175827976ffee8177814a016fb1b9578ff70f1aef759578/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f646973636f72642e737667" alt="Dungla#8009"/></a>	
+<a href="https://github.com/Dunglita"><img align="center" height="50" width="50" src="https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667" alt="github.com/Dunlgita"/></a>		
 </p>
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Dunglita)
 
 ## Learning 💻
 <p>Quick resume of all the programming languages and tools I've learned, the ones I use the most, and couple of things I'm looking forward to learn in a future as well as things im actually studying.</p>
-<h3>Actually working with</h3>
+<h3>Languages and tools I like working with</h3>
 <p align="left">
-<img alt="html5" height="50px" width="50px" src="https://camo.githubusercontent.com/72e5df59529a42423d671ba4c02bfb327d917517bfff18595c5e5dc17a5abece/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f68746d6c352e737667">
-<img alt="css3" height="50px" width="50px" src="https://camo.githubusercontent.com/b788527f604d8e727fcc90d721984125bced85c8a1c9f8da69c6c4a3e51df3c5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f637373332e737667">
-<img alt="git" height="50px" width="50px" src="https://camo.githubusercontent.com/a7628672dbfd8720309680580dbfe8aff1d12a1bb2397b5c36cd10a56e08adf7/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769742e737667">
 <img alt="react" height="50px" width="50px" src="https://camo.githubusercontent.com/98ce3f27aec475c03ad0441a7d4092f6b956814c7adc7f0049689dccedb82f1d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f72656163742e737667">
 <img alt="javascrip" height="50px" width="50px" src="https://camo.githubusercontent.com/9496882abd182958bcea4238ab44f7eb8928d7a4144c150f18f6c55ceb9b4490/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176617363726970742e737667">
+<img alt="html5" height="50px" width="50px" src="https://camo.githubusercontent.com/72e5df59529a42423d671ba4c02bfb327d917517bfff18595c5e5dc17a5abece/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f68746d6c352e737667">
+<img alt="css3" height="50px" width="50px" src="https://camo.githubusercontent.com/b788527f604d8e727fcc90d721984125bced85c8a1c9f8da69c6c4a3e51df3c5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f637373332e737667">
+<img alt="bootstrap" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/e29aedd7fcaafb039a7e2dd684ccddf0060c4b0c/bootstrap.svg">
+<img alt="express" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/d595800241e7c3939e92537a14e87d22a54fd6c1/express.svg">
+<img alt="figma" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/d595800241e7c3939e92537a14e87d22a54fd6c1/figma%202.svg">
+<img alt="nodejs" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/d595800241e7c3939e92537a14e87d22a54fd6c1/nodejs.svg">
+<img alt="mysql" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/d595800241e7c3939e92537a14e87d22a54fd6c1/mysql.svg">
+<img alt="git" height="50px" width="50px" src="https://camo.githubusercontent.com/a7628672dbfd8720309680580dbfe8aff1d12a1bb2397b5c36cd10a56e08adf7/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769742e737667">
 <img alt="github"  height="50" width="50" src="https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667">
+</p>
+<h3>Things I feel confident using </h3>
+<p align="left"> 
 <img alt="php" height="50px" width="50px" src="https://camo.githubusercontent.com/b71df4fcf19980b56b49c963638df23b5d1d2b9e9e487548649651f2f3e1d603/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7068702e737667">
 <img alt="docker" height="50px" width="50px" src="https://camo.githubusercontent.com/b9279edfece526123a96af67ea002acdd47e84e5ad05126faa08ab3332f8a9ef/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f646f636b65722e737667">
-<img alt="bootstrap" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/e29aedd7fcaafb039a7e2dd684ccddf0060c4b0c/bootstrap.svg">
 <img alt="heroku" height="50px" width="50px" src="https://camo.githubusercontent.com/6aa4e03ab52ad6767b4788866965fa02753db42f75ffa2b852c3c653c4d03273/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6865726f6b752e737667">
 <img alt="java" height="50px" width="50px" src="https://camo.githubusercontent.com/a870803f30db1d15495072fa9e946a7fa6a6fc1a47fe12324aaf7509c410fc4a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176612e737667">
 <img alt="c++" height="50px" width="50px" src="https://camo.githubusercontent.com/1141fa873ae7371cd6b723fef0cd57ca14923123983844571416854b7f5e8fb6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f63706c7573706c75732e737667">
 <img alt="canva" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/d595800241e7c3939e92537a14e87d22a54fd6c1/canva.svg">
-<img alt="express" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/d595800241e7c3939e92537a14e87d22a54fd6c1/express.svg">
-<img alt="figma" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/d595800241e7c3939e92537a14e87d22a54fd6c1/figma%202.svg">
-<img alt="nodejs" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/d595800241e7c3939e92537a14e87d22a54fd6c1/nodejs.svg">
 <img alt="postman" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/d595800241e7c3939e92537a14e87d22a54fd6c1/postman.svg">
 <img alt="R" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/main/Icons/RStudio_30177.png">	
-<img alt="mysql" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/d595800241e7c3939e92537a14e87d22a54fd6c1/mysql.svg">
 </p>
 <h3>Actually Learning</h3>
 <p align="left">
