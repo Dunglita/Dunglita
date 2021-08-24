@@ -13,7 +13,7 @@
 <li>💬 Ask me about React.</li>
 <li>📫 Reach me out at garciadanos@gmail.com.</li>
 <li>✏️ Coding with VSCode.</li>
-<li>⚡ Fun fact I have an smart-home proyect on the going.</li>
+<li>⚡ Fun fact I have a smart-home proyect on the going.</li>
 </ul>
 
 <h3 align="left">Connect with me🤝</h3>
@@ -25,7 +25,8 @@
 <a href="https://github.com/Dunglita"><img align="center" height="50" width="50" src="https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667" alt="github.com/Dunlgita"/></a>		
 </p>
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=Dunglita)
+![](https://hit.yhype.me/github/profile?user_id=83776673)
+
 
 ## Learning 💻
 <p>Quick resume of all the programming languages and tools I've learned, the ones I use the most, and couple of things I'm looking forward to learn in a future as well as things im actually studying.</p>
