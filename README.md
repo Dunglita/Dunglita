@@ -27,7 +27,7 @@
 </p>
 
 
-![View Counter](https://komarev.com/ghpvc/?username=Dunglita&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=Dunglita)
 
 
 ## Learning 💻
