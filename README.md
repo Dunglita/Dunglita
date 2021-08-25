@@ -9,10 +9,11 @@
 <p> My name is Daniel and I'm a 23 years old Web Developer from Argentina. Actually I'm gaining experience as a Fullstack Developer centered in the Frontend field.</br></p>
 <ul>
 <li>🌱 I’m currently learning Angular and Python.</li>
-<li>👨‍💻 All of my projects are available at https://github.com/Dunglita.</li>
+<li>👨‍💻 All of my projects are available <a href="https://github.com/Dunglita?tab=repositories">Here</a></li>
 <li>💬 Ask me about React.</li>
 <li>📫 Reach me out at garciadanos@gmail.com.</li>
 <li>✏️ Coding with VSCode.</li>
+<li>🔊 Colaborative lofi playlist of mine, feel free to add music: <a href="https://open.spotify.com/playlist/4Fv9GXXx5FffeEaI1fTc9m?si=69e31f6c39ca4735" >Lo-Fi Coding</a></li>
 <li>⚡ Fun fact I have a smart-home proyect on the going.</li>
 </ul>
 
@@ -28,10 +29,9 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Dunglita&color=blueviolet)
 
 
-
 ## Learning 💻
 <p>Quick resume of all the programming languages and tools I've learned, the ones I use the most, and couple of things I'm looking forward to learn in a future as well as things im actually studying.</p>
-<h3>Languages and tools I like working with</h3>
+<h3>Things I like working with</h3>
 <p align="left">
 <img alt="react" height="50px" width="50px" src="https://camo.githubusercontent.com/98ce3f27aec475c03ad0441a7d4092f6b956814c7adc7f0049689dccedb82f1d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f72656163742e737667">
 <img alt="javascrip" height="50px" width="50px" src="https://camo.githubusercontent.com/9496882abd182958bcea4238ab44f7eb8928d7a4144c150f18f6c55ceb9b4490/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176617363726970742e737667">
@@ -78,71 +78,6 @@
 <img alt="redux" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/63ff8885c42350bb5b3707af0776bea13ea914e0/Icons/redux.svg">		
 </p>
 
-<!--
-
-<ul>
- <li>
-  <h3>I feel confident using</h3> 
-  <details>
-	<summary><b>Frontend</b></summary></br>
-	<p>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Html5">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Js">
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-	</p>
-</details>
-  <details>
-	<summary><b>Backend</b></summary></br>
-	<p>
-   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.Js">
-    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.Js">
-    <img src="https://img.shields.io/badge/MySQL-CA4245?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-	<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PosgreSQL">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-	</p>
-</details>
-  <details>
-	<summary><b>Tools and Others</b></summary></br>
-	<p>
-   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R">
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
-	 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-	</p>
-</details>
-</li>
- <li>
-  <h3>I'm actually learning</h3>
-   <ul>
-    <img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" alt="Angular.Js">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-   </ul>
-   <ul>
-    <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="Raspberry pi">
-    <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
-   </ul>
- </li>
- <li>
-  <h3>I'm looking foward to learn in a future</h3>
-   <ul width=100px>
-    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-    <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
-    <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native">
-   </ul>
-   <ul>
-    <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js">
-    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-   </ul>
- </li>
-</ul>
-</br>
--->
 ## GitHub Stats📈
 
 <a href="https://github.com/Dunglita/Dunglita">
@@ -169,10 +104,11 @@
 <li>Jstick: Xbox One Controller</li>
 <li>HSet: HyperX Cloud Alpha</li>
 </ul>
--->
+
 <a href="https://steamcommunity.com/id/dunglita/">
 <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="MySteamProfile">
 </a>
+-->
 </br>
 
 ## Shy Joke every 15 min or so✨
