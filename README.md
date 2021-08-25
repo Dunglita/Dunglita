@@ -112,7 +112,7 @@
 -->
 </br>
 
-## Shy Joke every 15 min or so✨
+## Here's a new nerdy joke every 15 min or so✨
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <a href="https://github.com/Dunglita#hello-there-general-kenobi">
