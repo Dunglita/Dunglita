@@ -158,6 +158,9 @@
 </a>
 </br>
 </br>
+<a href="https://github.com/Dunglita#hello-there-general-kenobi">
+<img align="right" src="https://user-images.githubusercontent.com/83776673/130362732-2bf87472-7046-48a9-b9ea-6017b8dae060.png" alt="to top" height="40px" width="40px" >
+</a>
 <!--
 ## Setup (in case you're into that kind of things)👾
 <h4>PC Specs </h4>
@@ -178,17 +181,15 @@
 <a href="https://steamcommunity.com/id/dunglita/">
 <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="MySteamProfile">
 </a>
--->
+
 </br>
 
 ## Here's a new nerdy joke every 15 min or so✨
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-<a href="https://github.com/Dunglita#hello-there-general-kenobi">
-<img align="right" src="https://user-images.githubusercontent.com/83776673/130362732-2bf87472-7046-48a9-b9ea-6017b8dae060.png" alt="to top" height="40px" width="40px" >
-	</a>
+
 <p align="left">
-<!--
+
 <img alt="imdb" height="50px" width="50px" src="https://camo.githubusercontent.com/ac631ff752a29ca0d9b624f9e591e3e501aef392fab31a11d4bb1c99ac1c99e1/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696d64622e737667">
 <img alt="freecodecamp" height="50px" width="50px" src="https://camo.githubusercontent.com/67680a276344628a0678605ce81a18a3691d51c506c6827a684cd2f5ec7d0779/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66726565636f646563616d702e737667">
 <img alt="mail" height="50px" width="50px" src="https://camo.githubusercontent.com/21863a9a063d33b20608be917f5601f309abec90ae5cf5dedea38bb6b55d11ab/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d61696c2e737667">
@@ -202,9 +203,9 @@
 <img alt="whatsapp" height="50px" width="50px" src="https://camo.githubusercontent.com/945d32cdd8d51fe844ca8b2976914ae8786586607aee1cba24d7318e24b30411/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f77686174736170702e737667">
 <img alt="discord" height="50px" width="50px" src="https://camo.githubusercontent.com/79fcdc7c43f1a1d7c175827976ffee8177814a016fb1b9578ff70f1aef759578/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f646973636f72642e737667">
 <img alt="stackoverflow" height="50px" width="50px" src="https://camo.githubusercontent.com/ad1dcdc76b0be1423e54a791d31311e91e8e89bb8492be214cfc3390e24c323d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f737461636b6f766572666c6f772e737667">
--->	  	  
+  	  
 	    
 </p>
 
-
+-->	
 ![](https://hit.yhype.me/github/profile?user_id=83776673)
