@@ -131,6 +131,9 @@
 <a href="https://golang.org/">
 <img alt="go" height="50px" width="50px" src="https://camo.githubusercontent.com/13e18ab9046dbfdf25bb7a0448ec88710166b5ec85f3cd1b57efe2a9aa4ccdd6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676f2e737667">
 </a>
+<a href="https://cloud.google.com/">
+<img alt="googlecloud" width="50" height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg">
+</a>
 <a href="https://flutter.dev/">
 <img alt="flutter" height="50px" width="50px" src="https://camo.githubusercontent.com/750365ec8e10a2a4075ffb09fd644c3176c98638a7c45a79a8a40366a9d64f3a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f666c75747465722e737667">
 </a>
