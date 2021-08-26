@@ -98,24 +98,54 @@
 </p>
 <h3>Actually Learning</h3>
 <p align="left">
+<a href="https://angular.io/">
 <img alt="Angular" height="50px" width="50px" src="https://camo.githubusercontent.com/0a52f68a159b75266c4ae21683fffa9cbc1af29ea6febc2a8c9ce260a05e521d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f616e67756c61722e737667">
+</a>
+<a href="https://www.python.org/">
 <img alt="python"  height="50px" width="50px" src="https://camo.githubusercontent.com/aa96ee3a3352c9c3c2161d3e95698d0885a277ab85d617fe77912627d37a3959/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f707974686f6e2e737667">
+</a>
+<a href="https://www.raspberrypi.org/">
 <img alt="rasperry pi" height="50px" width="50px" src="https://camo.githubusercontent.com/c2ccb80448b60208568ddf7d98bfe5e6b37c6aef4d8abd4204defa743ca10619/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7261737062657272795f70692e737667">
+</a>
+<a href="https://www.arduino.cc/">
 <img alt="arduino" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/main/Icons/arduino-logo-1.png">
+</a>
 <p>
 <h3>I'm looking forward to learn</h3>
 <p align="left">
+<a href="https://www.typescriptlang.org/">
 <img alt="typescript" height="50px" width="50px" src="https://camo.githubusercontent.com/ff660f3b34106793e1a8008592156f3127d8465adc82e103b9f2e0ce012c70ec/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747970657363726970742e737667">
+</a>
+<a href="https://svelte.dev/">
 <img alt="svelte" height="50px" width="50px" src="https://camo.githubusercontent.com/667bb3aed3b725c94da10d16faeaa92a71334035ee72bd1d0f58a1d12138c336/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7376656c74652e737667">
+</a>
+<a href="https://kotlinlang.org/">
 <img alt="kotlin" height="50px" width="50px" src="https://camo.githubusercontent.com/28f57c54a36d9362f6f20f6a011471a4b0ffc6ad1a6f7b74ced17e922f118fbd/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6b6f746c696e2e737667">
+</a>
+<a href="https://vuejs.org/">
 <img alt="vuejs" height="50px" width="50px" src="https://camo.githubusercontent.com/9c5e7333f1c4ac09c07988ceda17508df89b6830fe0b8fb416c4be19c5841578/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7675652e737667">
-<img alt="saas" height="50px" width="50px" src="https://camo.githubusercontent.com/3a61a49321fba37513904864aee93be1873b05f2cb84b9c13a5dfbb534ac17fa/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f736173732e737667">
+</a>
+<a href="https://sass-lang.com/">
+<img alt="sass" height="50px" width="50px" src="https://camo.githubusercontent.com/3a61a49321fba37513904864aee93be1873b05f2cb84b9c13a5dfbb534ac17fa/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f736173732e737667">
+</a>
+<a href="https://golang.org/">
 <img alt="go" height="50px" width="50px" src="https://camo.githubusercontent.com/13e18ab9046dbfdf25bb7a0448ec88710166b5ec85f3cd1b57efe2a9aa4ccdd6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676f2e737667">
+</a>
+<a href="https://flutter.dev/">
 <img alt="flutter" height="50px" width="50px" src="https://camo.githubusercontent.com/750365ec8e10a2a4075ffb09fd644c3176c98638a7c45a79a8a40366a9d64f3a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f666c75747465722e737667">
+</a>
+<a href="https://aws.amazon.com/es/">
 <img alt="aws" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/d595800241e7c3939e92537a14e87d22a54fd6c1/aws.svg">
+</a>
+<a href="https://www.mongodb.com/es">
 <img alt="mongodb" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/d595800241e7c3939e92537a14e87d22a54fd6c1/mongo.svg">
+</a>
+<a href="https://nextjs.org/">
 <img alt="next" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/d595800241e7c3939e92537a14e87d22a54fd6c1/nextjs.svg">
-<img alt="redux" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/63ff8885c42350bb5b3707af0776bea13ea914e0/Icons/redux.svg">		
+</a>
+<a href="https://es.redux.js.org/">
+<img alt="redux" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/63ff8885c42350bb5b3707af0776bea13ea914e0/Icons/redux.svg">
+</a>
 </p>
 
 ## GitHub Stats📈
