@@ -13,7 +13,7 @@
 <li>💬 Ask me about React.</li>
 <li>📫 Reach me out at garciadanos@gmail.com.</li>
 <li>✏️ Coding with VSCode.</li>
-<li>🔊 Colaborative lofi playlist of mine, feel free to add music: <a href="https://open.spotify.com/playlist/4Fv9GXXx5FffeEaI1fTc9m?si=69e31f6c39ca4735" >Lo-Fi Coding</a></li>
+<li>🔊 Colaborative playlist of mine, feel free to add music: <a href="https://open.spotify.com/playlist/4Fv9GXXx5FffeEaI1fTc9m?si=69e31f6c39ca4735" >Chill Coding</a></li>
 <li>⚡ Fun fact I have a smart-home proyect on the going.</li>
 </ul>
 
