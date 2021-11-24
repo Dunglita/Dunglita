@@ -9,6 +9,7 @@
 <p> My name is Daniel and I'm a 23 years old Web Developer from Argentina. Actually I'm gaining experience as a Fullstack Developer centered in the Frontend field.</br></p>
 <ul>
 <li>🌱 I’m currently learning Angular and Python.</li>
+<li>💻 My personal portfolio is <a href="https://danigarcia.ar">danigarcia.ar</a></li>
 <li>👨‍💻 All of my projects are available <a href="https://github.com/Dunglita?tab=repositories">Here</a></li>
 <li>💬 Ask me about React.</li>
 <li>📫 Reach me out at garciadanos@gmail.com.</li>
