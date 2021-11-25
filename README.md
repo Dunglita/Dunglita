@@ -87,9 +87,6 @@
 <a href="https://es.wikipedia.org/wiki/C%2B%2B">
 <img alt="c++" height="50px" width="50px" src="https://camo.githubusercontent.com/1141fa873ae7371cd6b723fef0cd57ca14923123983844571416854b7f5e8fb6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f63706c7573706c75732e737667">
 </a>
-<a href="https://www.canva.com/">
-<img alt="canva" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/d595800241e7c3939e92537a14e87d22a54fd6c1/canva.svg">
-</a>
 <a href="https://www.postman.com/">
 <img alt="postman" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/d595800241e7c3939e92537a14e87d22a54fd6c1/postman.svg">
 </a>
