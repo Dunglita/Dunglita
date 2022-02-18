@@ -92,7 +92,12 @@
 </p>
 <h3>Actually Learning</h3>
 <p align="left">
-
+<a href="https://www.typescriptlang.org/">
+<img alt="typescript" height="50px" width="50px" src="https://camo.githubusercontent.com/ff660f3b34106793e1a8008592156f3127d8465adc82e103b9f2e0ce012c70ec/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747970657363726970742e737667">
+</a>
+<a href="https://www.mongodb.com/es">
+<img alt="mongodb" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/d595800241e7c3939e92537a14e87d22a54fd6c1/mongo.svg">
+</a>
 <a href="https://www.raspberrypi.org/">
 <img alt="rasperry pi" height="50px" width="50px" src="https://camo.githubusercontent.com/c2ccb80448b60208568ddf7d98bfe5e6b37c6aef4d8abd4204defa743ca10619/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7261737062657272795f70692e737667">
 </a>
@@ -102,9 +107,7 @@
 <p>
 <h3>I'm looking forward to learn</h3>
 <p align="left">
-<a href="https://www.typescriptlang.org/">
-<img alt="typescript" height="50px" width="50px" src="https://camo.githubusercontent.com/ff660f3b34106793e1a8008592156f3127d8465adc82e103b9f2e0ce012c70ec/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747970657363726970742e737667">
-</a>
+
 <a href="https://svelte.dev/">
 <img alt="svelte" height="50px" width="50px" src="https://camo.githubusercontent.com/667bb3aed3b725c94da10d16faeaa92a71334035ee72bd1d0f58a1d12138c336/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7376656c74652e737667">
 </a>
@@ -126,9 +129,7 @@
 <a href="https://aws.amazon.com/es/">
 <img alt="aws" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/d595800241e7c3939e92537a14e87d22a54fd6c1/aws.svg">
 </a>
-<a href="https://www.mongodb.com/es">
-<img alt="mongodb" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/d595800241e7c3939e92537a14e87d22a54fd6c1/mongo.svg">
-</a>
+
 <a href="https://nextjs.org/">
 <img alt="next" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/d595800241e7c3939e92537a14e87d22a54fd6c1/nextjs.svg">
 </a>
