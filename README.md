@@ -8,7 +8,7 @@
 <h3>Personal Stuffs</h3>
 <p> My name is Daniel and I'm a 23 years old Web Developer from Argentina. Actually I'm gaining experience as a Fullstack Developer centered in the Frontend field.</br></p>
 <ul>
-<li>🌱 I’m currently learning Angular and Python.</li>
+<li>🌱 I’m currently learning MongoDB and TypeScript.</li>
 <li>💻 My personal portfolio is <a href="https://danigarcia.ar">danigarcia.ar</a></li>
 <li>👨‍💻 All of my projects are available <a href="https://github.com/Dunglita?tab=repositories">Here</a></li>
 <li>💬 Ask me about React.</li>
@@ -89,19 +89,10 @@
 </a>
 <a href="https://www.postman.com/">
 <img alt="postman" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/d595800241e7c3939e92537a14e87d22a54fd6c1/postman.svg">
-</a>
-<a href="https://www.rstudio.com/">
-<img alt="R" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/main/Icons/RStudio_30177.png">	
-</a>
 </p>
 <h3>Actually Learning</h3>
 <p align="left">
-<a href="https://angular.io/">
-<img alt="Angular" height="50px" width="50px" src="https://camo.githubusercontent.com/0a52f68a159b75266c4ae21683fffa9cbc1af29ea6febc2a8c9ce260a05e521d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f616e67756c61722e737667">
-</a>
-<a href="https://www.python.org/">
-<img alt="python"  height="50px" width="50px" src="https://camo.githubusercontent.com/aa96ee3a3352c9c3c2161d3e95698d0885a277ab85d617fe77912627d37a3959/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f707974686f6e2e737667">
-</a>
+
 <a href="https://www.raspberrypi.org/">
 <img alt="rasperry pi" height="50px" width="50px" src="https://camo.githubusercontent.com/c2ccb80448b60208568ddf7d98bfe5e6b37c6aef4d8abd4204defa743ca10619/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7261737062657272795f70692e737667">
 </a>
@@ -160,6 +151,16 @@
 <img align="right" src="https://user-images.githubusercontent.com/83776673/130362732-2bf87472-7046-48a9-b9ea-6017b8dae060.png" alt="to top" height="40px" width="40px" >
 </a>
 <!--
+<a href="https://angular.io/">
+<img alt="Angular" height="50px" width="50px" src="https://camo.githubusercontent.com/0a52f68a159b75266c4ae21683fffa9cbc1af29ea6febc2a8c9ce260a05e521d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f616e67756c61722e737667">
+</a>
+<a href="https://www.python.org/">
+<img alt="python"  height="50px" width="50px" src="https://camo.githubusercontent.com/aa96ee3a3352c9c3c2161d3e95698d0885a277ab85d617fe77912627d37a3959/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f707974686f6e2e737667">
+</a>
+</a>
+<a href="https://www.rstudio.com/">
+<img alt="R" height="50px" width="50px" src="https://raw.githubusercontent.com/Dunglita/Dunglita/main/Icons/RStudio_30177.png">	
+</a>
 ## Setup (in case you're into that kind of things)👾
 <h4>PC Specs </h4>
 <ul>
